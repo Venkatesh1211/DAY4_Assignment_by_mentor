@@ -46,8 +46,8 @@ class OrderManager : IOrderOperations
     // Constructor
     public OrderManager()
     {
-        customers[1] = "Sanjay";
-        customers[2] = "Rahul";
+        customers[1] = "Venky";
+        customers[2] = "Ravi";
     }
 
     // Add Order
